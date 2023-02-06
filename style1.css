@@ -1,0 +1,25 @@
+
+.myGrid1{
+
+    padding: 5px 10px;
+
+    border: 5px  red;   
+    background-color: rgba(219, 95, 18, 0.408);
+}
+
+.row{
+    padding: 10px 5px;
+}
+
+.footer{
+    padding: 10px 5px;
+}
+
+.g1{
+    padding: 15px 15px ;
+    text-align: center;
+    background-color: rgba(17, 119, 12, 0.28);
+    text-shadow: 0cm;
+
+    color: rgba(14, 54, 157, 0.801);
+}
