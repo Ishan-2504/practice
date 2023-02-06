@@ -1,3 +1,6 @@
+*{
+    background-color: rgba(203, 175, 14, 0.329);
+}
 
 .myGrid1{
 
@@ -6,7 +9,6 @@
     border: 5px  red;   
     background-color: rgba(219, 95, 18, 0.408);
 }
-
 .row{
     padding: 10px 5px;
 }
@@ -22,4 +24,10 @@
     text-shadow: 0cm;
 
     color: rgba(14, 54, 157, 0.801);
+}
+
+.myClass1{
+
+    padding: 10px 20px;
+    text-align: center;
 }
